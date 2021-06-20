@@ -14,3 +14,7 @@ main {
     box-shadow: 3px 3px 5px rgb(0, 0, 0, 0.473);
     padding: 10px;
 }
+
+img.lado{
+float: right;
+}
